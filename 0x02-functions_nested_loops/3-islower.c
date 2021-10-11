@@ -1,6 +1,7 @@
-#include"main.h"
+#include "main.h"
 /**
  * _islower - entry poin
+ * @c: variable
  * Return: 0
  */
 int _islower(int c)
