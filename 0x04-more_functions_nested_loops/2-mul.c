@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * mul(int a, int b) - entry point
+ * mul - multiplicate
  * @a: variable
  * @b: variable
  * Return: 0
