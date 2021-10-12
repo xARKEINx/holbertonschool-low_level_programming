@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _isdigit(int c) - entry point
+ * _isdigit - entry point
  * @c: variable
  * Return: 0
  */
