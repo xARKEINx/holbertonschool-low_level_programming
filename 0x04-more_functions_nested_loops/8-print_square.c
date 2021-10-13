@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- *  * print_square - Entry Point
- *   * @size: Variable
- *    * a: Variable
- *     * b: Variable
- *      * Return: No
- *       */
+ * print_square - Entry Point
+ * @size: Variable
+ * a: Variable
+ * b: Variable
+ * Return: No
+ */
 void print_square(int size)
 {
 	int a;
