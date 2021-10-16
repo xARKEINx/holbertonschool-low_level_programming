@@ -4,6 +4,7 @@
  * @*s: variable
  * i: variable
  * Return: 0
+ * @s: pointer
  */
 int _strlen(char *s)
 {
