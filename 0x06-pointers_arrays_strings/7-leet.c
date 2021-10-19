@@ -1,7 +1,12 @@
 #include "main.h"
 /**
- *
- *
+ * leet - entry point
+ * @s: pointer
+ * a: variable
+ * b: string
+ * c: string
+ * d: variable
+ * Return:pointer s
  */
 char *leet(char *s)
 {
