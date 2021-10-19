@@ -1,7 +1,12 @@
 #include "main.h"
 /**
- *
- *
+ * _strncat - entry point
+ * @src: pointer
+ * @dest: pointer
+ * @n: variable
+ * a: variable
+ * b: variable
+ * Return: pointer dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
