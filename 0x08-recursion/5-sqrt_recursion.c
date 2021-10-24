@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- square - my funtion
+ * square - my funtion
  * @n: variable
  * @a: Variable
- * Return: number square
+ * Return: number
  */
 int square(int n, int a)
 {
