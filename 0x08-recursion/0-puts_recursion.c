@@ -1,5 +1,8 @@
 #include "main.h"
 /**
+ * _puts_recursion - entry point
+ * @s: pointer
+ * Return: 0
  */
 void _puts_recursion(char *s)
 {
