@@ -2,11 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * create_array - entry point
- * @size: variable
- * @c: variable
- * a: pointer
- * b: variable
+ * create_array - Funtion for array
+ * @size: placer of memory
+ * @c:  Variable
  * Return: a
  */
 char *create_array(unsigned int size, char c)
@@ -19,7 +17,6 @@ char *create_array(unsigned int size, char c)
 		return (NULL);
 	}
 	a = malloc(size * sizeof(*a));
-
 	if (a == NULL)
 	{
 		return (NULL);
