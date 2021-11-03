@@ -5,8 +5,8 @@
  * free_grid - funtion free grid
  * @grid: double pointer
  * @height: Colums
- *     * Return: No line
- *      */
+ * Return: No line
+ */
 void free_grid(int **grid, int height)
 {
 	int a;
